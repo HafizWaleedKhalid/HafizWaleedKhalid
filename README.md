@@ -73,6 +73,8 @@ from Day 1.
 *Building week by week — screenshots and decisions
 documented in the repository as the project grows.*
 
+**Repository:** [Enterprise IT Helpdesk System](https://github.com/HafizWaleedKhalid/Enterprise-IT-Helpdesk-PowerPlatform)
+
 ---
 
 ## 📚 What I Am Learning
